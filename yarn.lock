@@ -773,9 +773,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/prompts@npm:7.7.1":
-  version: 7.7.1
-  resolution: "@inquirer/prompts@npm:7.7.1"
+"@inquirer/prompts@npm:7.8.0":
+  version: 7.8.0
+  resolution: "@inquirer/prompts@npm:7.8.0"
   dependencies:
     "@inquirer/checkbox": "npm:^4.2.0"
     "@inquirer/confirm": "npm:^5.1.14"
@@ -785,14 +785,14 @@ __metadata:
     "@inquirer/number": "npm:^3.0.17"
     "@inquirer/password": "npm:^4.0.17"
     "@inquirer/rawlist": "npm:^4.1.5"
-    "@inquirer/search": "npm:^3.0.17"
+    "@inquirer/search": "npm:^3.1.0"
     "@inquirer/select": "npm:^4.3.1"
   peerDependencies:
     "@types/node": ">=18"
   peerDependenciesMeta:
     "@types/node":
       optional: true
-  checksum: 10c0/7489a7d5b243c1c6c889e472d1779d838ede414ee766ad5878dc8e99dfa931ca9dac4652ba991e619b5efb4343db39bf7891f753cf17bc638427b05c650f01fd
+  checksum: 10c0/870496b7e9c5aa09198f47e95b5e73af4363c5736bfd1ef0e4722859cfd0dff56e0302e15bc3f7dcc4af7efb4654a7f6c3eb0351deb4a09f2094688c86136f55
   languageName: node
   linkType: hard
 
@@ -812,7 +812,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/search@npm:^3.0.17, @inquirer/search@npm:^3.0.9":
+"@inquirer/search@npm:^3.0.9, @inquirer/search@npm:^3.1.0":
   version: 3.1.0
   resolution: "@inquirer/search@npm:3.1.0"
   dependencies:
@@ -1378,14 +1378,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/cli@npm:^11.0.8":
-  version: 11.0.8
-  resolution: "@nestjs/cli@npm:11.0.8"
+"@nestjs/cli@npm:^11.0.10":
+  version: 11.0.10
+  resolution: "@nestjs/cli@npm:11.0.10"
   dependencies:
     "@angular-devkit/core": "npm:19.2.15"
     "@angular-devkit/schematics": "npm:19.2.15"
     "@angular-devkit/schematics-cli": "npm:19.2.15"
-    "@inquirer/prompts": "npm:7.7.1"
+    "@inquirer/prompts": "npm:7.8.0"
     "@nestjs/schematics": "npm:^11.0.1"
     ansis: "npm:4.1.0"
     chokidar: "npm:4.0.3"
@@ -1411,7 +1411,7 @@ __metadata:
       optional: true
   bin:
     nest: bin/nest.js
-  checksum: 10c0/dbd41623981d90fee596582245a0a46e61aebb58d656f8e675707b23bf7929d61f5014658274291523f62e4d040d772d6776f48f96a74e3412e36b5f861bfea5
+  checksum: 10c0/6025e6e78f74da9dd8344edb5a3b3e6a52b0ef26b2aa9129d398f56c3e9a2f001ec575fb87f9ec091693337f5331ac1b9a35210eb174001d33a65d8e9c69aefa
   languageName: node
   linkType: hard
 
@@ -2791,7 +2791,7 @@ __metadata:
   dependencies:
     "@eslint/eslintrc": "npm:^3.2.0"
     "@eslint/js": "npm:^9.18.0"
-    "@nestjs/cli": "npm:^11.0.8"
+    "@nestjs/cli": "npm:^11.0.10"
     "@nestjs/common": "npm:^11.0.1"
     "@nestjs/core": "npm:^11.0.1"
     "@nestjs/platform-express": "npm:^11.0.1"
