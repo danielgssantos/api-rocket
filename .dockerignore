@@ -1,6 +1,5 @@
 node_modules
 Dockerfile
 dist
-.gitignore
 .dockerignore
 .gitignore
