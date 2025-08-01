@@ -12,7 +12,7 @@ COPY . .
 
 RUN yarn run build
 
-RUN yarn workspaces focus --production && yarn cache clean
+RUN yarn install --production --frozen-lockfile && yarn cache clean
 
 FROM node:20-alpine3.22
 
